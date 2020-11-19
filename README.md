@@ -42,4 +42,23 @@
 
 **사이트**
 
-https://byline.network/2019/07/10-74/
+https://byline.network/2019/07/10-74/    - 배민 라이더스 후기
+
+https://ratsgo.github.io/machine%20learning/2017/04/08/apriori/  - 연관분석
+
+
+
+빅데이터 참고용 
+
+exam21 - 자연어처리
+
+exam22 - 트위터 API로 연관 키워드 분석하기
+
+exam22_1 - 연관분석
+
+exam23 -  회귀분석 (상관관계 분석, 공선성 파악)
+
+exam23_1 - 회귀분석 (단일회귀분석, 다중회귀분석, )
+
+
+

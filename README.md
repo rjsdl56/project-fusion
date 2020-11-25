@@ -59,7 +59,10 @@
 6일차 : 데이터분석 및 전처리
 
 - 성별 및 나이별 데이터 전처리
-- 
+- 회귀분석용 전처리
+- 회귀분석 전 시각화
+- 배달-안전 관련 연관분석
+- 자연어처리를 위한 머신러닝 공부
 
 
 
@@ -82,6 +85,8 @@ https://ceo.baemin.com/guide/detail/G77008 - 라이더 5번 터치
 https://blog.naver.com/foodnote_mkt/222065106550 - 배민 데이터 양식 // 시간, 구, 음식
 
 https://lemontia.tistory.com/903 - 연관분석
+
+https://wikidocs.net/21703 - 자연어처리를 위한 머신러닝
 
 
 
